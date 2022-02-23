@@ -57,7 +57,7 @@ async def main(_, msg):
                 for video in videos:
                     await msg.reply_video(video)
             if caption:
-                await msg.reply(f"**POST CAPTION : **\n\n{caption} \n\nBy @StarkBots")
+                await msg.reply(f"**POST CAPTION : **\n\n{caption} \n\nBy @jetbots")
         await status.delete()
         shutil.rmtree(path)
     except AttributeError:
