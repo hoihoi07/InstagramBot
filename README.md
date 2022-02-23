@@ -1,4 +1,4 @@
-# Instagram Downloader Bot [@InstaloaderStarkBot](https://t.me/InstaloaderStarkBot)
+# Instagram Downloader Bot [@InstaloaderStarkBot](https://t.me/Instagram_jetbot)
 
 > A star ⭐ from you means a lot to us!
 
@@ -12,7 +12,7 @@ Telegram bot to download instagram content.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/InstagramBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoihoi07/InstagramBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
